@@ -1,9 +1,9 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-darker-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "A dark syntax theme",
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "description": "A darker syntax theme, like it used to be.",
+  "repository": "https://github.com/blvz/one-darker-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
